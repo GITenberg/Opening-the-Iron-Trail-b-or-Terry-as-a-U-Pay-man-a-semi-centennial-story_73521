@@ -1,5 +1,8 @@
 _repo: Opening-the-Iron-Trail-b-or-Terry-as-a-U-Pay-man-a-semi-centennial-story_73521
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73521-h/images/coversmall.jpg
 creator:
   author:
     agent_name: Sabin, Edwin L. (Edwin Legrand)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9476
     wikipedia: https://en.wikipedia.org/wiki/Edwin_L._Sabin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73521#Opening-the-Iron-Trail-b-or-Terry-as-a-U-Pay-man-a-semi-centennial-story
 gutenberg_issued: '2024-05-03'
 gutenberg_type: Text
 identifiers:
